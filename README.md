@@ -1,12 +1,12 @@
-DNS Zone Transfer
+**DNS Zone Transfer**
 
-Dependencies:
+**Dependencies:**
 
-DNSPYTHON
+1. DNSPYTHON
 
 python3 -m pip install dnspython
 
-Usage:
+**Usage:**
 
 python3 zonetransfer.py domain.com
 
