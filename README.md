@@ -2,9 +2,9 @@
 
 **Dependencies:**
 
-1. DNSPYTHON
+1. dnspython
 
-python3 -m pip install dnspython
+* python3 -m pip install dnspython
 
 **Usage:**
 
